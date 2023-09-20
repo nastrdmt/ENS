@@ -10,7 +10,7 @@
   "author": "sim",
   "license": "ISC",
   "dependencies": {
-    "@ensdomains/address-encoder": "^0.2.21",
+    "@ensdomains/address-encoder": "^0.2.22",
     "@ensdomains/eth-ens-namehash": "^2.0.15",
     "ethers": "5.7.2",
     "ethjs-ens": "^2.0.1",
