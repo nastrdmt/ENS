@@ -12,9 +12,9 @@
   "dependencies": {
     "@ensdomains/address-encoder": "^0.2.21",
     "@ensdomains/eth-ens-namehash": "^2.0.15",
-    "ethers": "5.7.2",
+    "ethers": "6.0.0",
     "ethjs-ens": "^2.0.1",
     "ethjs-provider-http": "^0.1.6",
-    "web3": "1.10.0"
+    "web3": "4.2.0"
   }
 }
