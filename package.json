@@ -10,11 +10,11 @@
   "author": "sim",
   "license": "ISC",
   "dependencies": {
-    "@ensdomains/address-encoder": "^0.2.21",
+    "@ensdomains/address-encoder": "^1.0.0",
     "@ensdomains/eth-ens-namehash": "^2.0.15",
     "ethers": "5.7.2",
     "ethjs-ens": "^2.0.1",
     "ethjs-provider-http": "^0.1.6",
-    "web3": "1.10.0"
+    "web3": "4.0.1"
   }
 }
